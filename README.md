@@ -8,3 +8,7 @@ Stakeholders: Lily Moreno, director of marketing and Cyclistics executive team a
 
 # Phase 2: Prepare
 Source: April 2023 - March 2024 Cyclistic trip data.
+
+
+# Phase 5: Share
+Casual riders mostly ride on the weekends and uses them as leisure while annual members tend to ride all week and rides the bikes for commute. I would suggest that to make casual riders become annual members, focus on the leisure details and make a discount on the weekends.
